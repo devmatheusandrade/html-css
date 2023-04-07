@@ -1,0 +1,16 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body{
+    background-color:#B8A384 ;
+}
+
+#principal{
+    background-color: #B8A384;
+    text-align: center;
+    font-family:"Amatic"
+    }
+
+    h1{
+        background-color: aqua;
+    }
